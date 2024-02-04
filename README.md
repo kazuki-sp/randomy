@@ -10,10 +10,9 @@
 ## 使用技術
 
 ## サイトマップ、ワイヤーフレーム、データベース図
-* サイトマップ：[https://cacoo.com/diagrams/Ss165m429b5uYRk5/A678E](https://cacoo.com/diagrams/Ss165m429b5uYRk5/A678E)
-* <iframe src="https://cacoo.com/diagrams/Ss165m429b5uYRk5/view?si=A678E&w=400&h=300" width="402" height="330" frameborder="0" scrolling="no"></iframe>
-https://cacoo.com/diagrams/Ss165m429b5uYRk5-A678E.png
-* ワイヤーフレーム：https://cacoo.com/diagrams/WICsuhXMNTvGrXkc/BB501
+* サイトマップ：
+* 
+* ワイヤーフレーム：
 
 ## デモ動画（一部）
 https://github.com/kazuki-sp/randomy/assets/61288958/b324af38-89f0-4aa0-be91-c24bcf7e51aa
