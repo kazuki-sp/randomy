@@ -8,6 +8,13 @@
 * 使用したお金の管理
 
 ## 使用技術
+* AWS
+* HTML/CSS
+* Bootstrap
+* Ruby
+* MySQL
+* Ruby on Rails
+* Heroku
 
 ## サイトマップ、ワイヤーフレーム、データベース図
 * サイトマップ：https://drive.google.com/drive/folders/1HCsBQWO3ZSnLgEH627Z4onjvw6YKvh79?usp=sharing
