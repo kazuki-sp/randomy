@@ -10,7 +10,7 @@
 ## 使用技術
 
 ## サイトマップ、ワイヤーフレーム、データベース図
-https://cacoo.com/diagrams/WICsuhXMNTvGrXkc/BB501
+* ワイヤーフレーム：[https://cacoo.com/diagrams/WICsuhXMNTvGrXkc/BB501](https://cacoo.com/diagrams/WICsuhXMNTvGrXkc/BB501)
 
 ## デモ動画（一部）
 https://github.com/kazuki-sp/randomy/assets/61288958/b324af38-89f0-4aa0-be91-c24bcf7e51aa
