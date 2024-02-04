@@ -10,9 +10,9 @@
 ## 使用技術
 
 ## サイトマップ、ワイヤーフレーム、データベース図
-* サイトマップ：
-* https://cacoo.com/diagrams/WICsuhXMNTvGrXkc-BB501.png
-* ワイヤーフレーム：
+* サイトマップ：https://drive.google.com/drive/folders/1HCsBQWO3ZSnLgEH627Z4onjvw6YKvh79?usp=sharing
+* ワイヤーフレーム：https://drive.google.com/drive/folders/1GuZEbK1Ja6Q8zPq3a3wc08W6xxfJy9-0?usp=sharing
+* データベース図：https://drive.google.com/drive/folders/10e3vvQmOPyJJfhFnmsylMy1xw3EWFqZi?usp=sharing
 
 ## デモ動画（一部）
 https://github.com/kazuki-sp/randomy/assets/61288958/b324af38-89f0-4aa0-be91-c24bcf7e51aa
